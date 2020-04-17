@@ -56,6 +56,6 @@ YOLO detects more images than Mask R-CNN.
 
 YOLO is more effective than Mask R-CNN. But R-CNN is more conscious about what it is detecting.  
 # Credits:
-YOLO: https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/
+YOLO: https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/  
 Mask-RCNN: https://www.pyimagesearch.com/2018/11/19/mask-r-cnn-with-opencv/
 # Mask RCNN repository coming soon....
