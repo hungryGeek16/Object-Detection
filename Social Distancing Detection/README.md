@@ -4,7 +4,7 @@
 
 1. ```main.py```: this file contains all the main code which runs to detect persons in the image.How function works and it's functionalities have been documented in that code file itself.
 
-2. ```helper.py```: this file contains three helper functions. The purpose of making a helper function file for three is to maintain code readablity.
+2. ```helper.py```: this file contains three helper functions. The purpose of making a helper file for three functions is to maintain code readablity.
 
 ### How to Run:
 ```python
