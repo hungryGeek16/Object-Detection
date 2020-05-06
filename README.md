@@ -24,22 +24,6 @@ The whole model is based on a single network which multiple CNN layers in it and
   <img src="yolo_data/yolo2.png" width = 480>
 </p>
 
-**Parameters which I have tried:**
-**Number of Objects:**
-
-<p align="center">
-  <img src="yolo_data/yolo4.png" width = 480>
-</p>
-
-YOLO detects more images than Mask R-CNN.
-
-**Quality of Image:**
-<p align="center">
-  <img src="yolo_data/yolo5.png" width = 480>
-</p>
-
-YOLO is more effective than Mask R-CNN. But R-CNN is more conscious about what it is detecting.  
+**Examples of YOLO Detection:**.  
 # Credits:
 YOLO: https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/  
-Mask-RCNN: https://www.pyimagesearch.com/2018/11/19/mask-r-cnn-with-opencv/
-# Mask RCNN repository coming soon....
