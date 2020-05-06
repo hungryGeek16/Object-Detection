@@ -22,6 +22,7 @@ The whole model is based on a single network which multiple CNN layers in it and
 
 <p align="center">
   <img src="yolo_data/yolo2.png" width = 480>
-</p>  
+</p>
+
 # Credits:
 YOLO: https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/  
