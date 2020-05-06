@@ -11,6 +11,10 @@ console:~$ main.py --videopath /path/to/the/video/file
 ```
 **Output looks like this:**
 
+<p align="center">
+  <img src="yolo_data/video.gif">
+</p>
+
 
 3. The output window has four string on the top left corner.  
 ```Persons Detected: Total no of persons detected in each frame```  
