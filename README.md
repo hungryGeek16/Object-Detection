@@ -24,22 +24,6 @@ The whole model is based on a single network which multiple CNN layers in it and
   <img src="yolo_data/yolo2.png" width = 480>
 </p>
 
-**Mask R-CNN(Regional Convolutional Neural Networks):**
-1.  Mask R-CNN gives information about what pixel belong to the object and background.
-2. It's basically an algorithm based on Instance Segmentation, where it determines pixel-wise mask for every object present in the image.
-
-<p align="center">
-  <img src="yolo_data/yolo3.png" width = 480>
-</p>
-
-3.  An input image is passed to the model and the model extracts regions which may potentially contain objects using selective search algorithm.
-4.  By using transfer learning method, specifically, feature extraction model computes features for each extracted region using the pre-trained CNN. 
-5. At last the extracted regions where an object is identified are passed to SVM classifier for final prediction of the class of the object which it belongs to.
-
-<p align="center">
-  <img src="yolo_data/yolo4_rep.png" width = 480>
-</p>
-
 **Parameters which I have tried:**
 **Number of Objects:**
 
