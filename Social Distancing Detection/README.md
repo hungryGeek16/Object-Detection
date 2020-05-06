@@ -2,12 +2,6 @@
 
  **Note: Due cpu and memory constraints, yolov3-tiny has been used in the system.The architecture files are heavy to be uploaded on github,please click the [link](https://drive.google.com/drive/folders/1tDsQgcUoQw8hnxHRrLbb-nbhfMduEhyn?usp=sharing) to download yolov3 and yolov3-tiny weights and config file.**
 
-#### Requirements:
-1. OpenCV 4.1.2  
-2. argparse  
-3. numpy  
-
-
 1. ```main.py```: this file contains all the main code which runs to detect persons in the image.How function works and it's functionalities have been documented in that code file itself.
 
 2. ```helper.py```: this file contains three helper functions. The purpose of making a helper function file for three is to maintain code readablity.
@@ -43,6 +37,11 @@ So instead of darknet-53, the below architecture has been used.
 <p align="center">
   <img src="imp-data/yolo-tiny.png" width = 480>
 </p>  
- 
+  
+#### Requirements:
+1. OpenCV 4.1.2  
+2. argparse  
+3. numpy  
+
   
 
