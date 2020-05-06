@@ -1,6 +1,6 @@
 # Object-Detection
 
-**OBJECT DETECTION USING YOLO AND MASK RCNN**
+**OBJECT DETECTION USING YOLO**
 
 **YOLO(You only look once):**
 1.  The name itself says that the image is processed or passed into the model only for once, unlike a traditional RCNN.
