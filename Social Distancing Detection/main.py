@@ -21,7 +21,7 @@ cap = cv2.VideoCapture(input_video)  # Path to the video input
 q = 0  # to store intital value of width and reduce the width of the image 
 frame_count = 0
 
-ln,net = network()
+ln,net = network()  #Call network from helper file
 while True:
 
     (grabbed, frame) = cap.read() #reads image frame by frame
