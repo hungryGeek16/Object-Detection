@@ -1,4 +1,4 @@
-# Object-Detection
+# YOLO Object-Detection
 
 **OBJECT DETECTION USING YOLO**
 
