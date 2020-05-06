@@ -12,7 +12,7 @@ console:~$ main.py --videopath /path/to/the/video/file
 **Output looks like this:**
 
 <p align="center">
-![](yolo_data/video.gif)
+![Social](video.gif)
 </p>
 
 
