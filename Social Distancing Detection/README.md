@@ -12,9 +12,9 @@ console:~$ main.py --videopath /path/to/the/video/file
 **Output looks like this:**
 
 
-3. The output window has four string on the top left corner.
-```Persons Detected: Total no of persons detected in each frame```
-```People at high risk: Total no of people who are not following social distancing.```
-```People at low risk: Total no of people who are somewhat following social distancing.```
-```People at no risk: Total no of people who are following social distancing.```
+3. The output window has four string on the top left corner.  
+```Persons Detected: Total no of persons detected in each frame```  
+```People at high risk: Total no of people who are not following social distancing.```  
+```People at low risk: Total no of people who are somewhat following social distancing.```  
+```People at no risk: Total no of people who are following social distancing.```  
 **Hence based on these four paramters social distancing can be monitored**
