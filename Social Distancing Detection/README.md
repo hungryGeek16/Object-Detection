@@ -8,7 +8,7 @@
 
 ### How to Run:
 ```python
-console:~$ main.py --videopath /path/to/the/video/file
+console:~$ python3 main.py --videopath /path/to/the/video/file
 # Above lines output a window which runs the application
 ```
 **Output looks like this:**
